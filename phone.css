@@ -1,0 +1,157 @@
+/* this code to open mobile device proper website */
+/* header{
+    position: sticky;
+    top:0px;
+} */
+*{
+    margin:0px;
+    padding:0px;
+}
+ul{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right:250px;
+}
+
+.list{
+    /* padding:3px; */
+}
+#home-content{
+    height:100%;
+    width:100%;
+}
+#home-content h1{
+    margin-right:171px;
+    font-size:30px;
+
+}
+#home-content input{
+    height: 5px;
+    width: 200px;
+    margin-left:50px;
+    /* margin:auto; */
+}
+#home-content button{
+    margin-left:50px;
+}
+#services h1{
+    font-size:40px;
+    margin-right:171px;
+
+}
+#services .firstcont{
+    display: flex; 
+    flex-direction: column;
+}
+#services #services-content-1 img{
+    height: 224px;
+    width: 315px;
+    border: 2px solid red;
+}
+#services #program-1{
+    margin-right:167px;
+}
+#services #program-data-1{
+    margin-right:165px;
+}
+
+#services #btn-1{
+    margin-right:187px;
+}
+#services .secondcont{
+    display: flex; 
+    flex-direction: column;
+}
+#services #services-content-2 img{
+    height: 224px;
+    width: 315px;
+    border: 2px solid red;
+}
+#services #program-2{
+    margin-right:167px;
+}
+#services #program-data-2{
+    margin-right:165px;
+}
+
+#services #btn-2{
+    margin-right:187px;
+}
+
+#about h1{
+    /* margin-right:978px; */
+}
+#about #about-content{
+    font-size:17px;
+    text-align: center;
+    /* margin-right:985px; */
+    /* height:700px; */
+}
+#about #about-data{
+    height:689px;
+
+}
+
+#touch{
+    margin-top:120px;
+}
+#touch h1{
+    font-size:40px;
+    /* margin-right:471px; */
+}
+#touch label {
+   /* margin-right:100px; */
+}
+#touch input {
+    height: 48px;
+    margin-left: -464px;
+    width: 257px;
+}
+#touch #touch-btn {
+    width: 216px;
+    margin-right: 530px;
+   
+}
+
+#footer #footer-data{
+    font-size: 23px;
+    font-weight:600;
+    /* margin-left:100px; */
+}
+
+/* Prectice to almost response */
+header{
+    border:2px solid white;
+    width:493px;
+    height:120px;
+}
+li a{
+    /* margin-left:140px; */
+}
+
+#home{
+    width:491px;
+}
+#home h1{
+    width:302px;
+}
+
+#services{
+    width:491px;
+    border: 2px solid white;;
+}
+
+.about-data{
+    width:472px;
+}
+
+.touch-data{
+    width: 481px;
+}
+
+#footer-data{
+    width:491px;
+}
